@@ -16,7 +16,7 @@ namespace Testing.Resources
 
             ICapabilities capabilities = ((RemoteWebDriver)driver).Capabilities;
 
-            var location = "C:/Users/" + GetUsername() + "/Documents/Visual Studio 2015/Projects/MyPlay/Screenshots/" + saveLocation + "/" + capabilities.BrowserName + "_" +
+            var location = GetDirectoryName() + saveLocation + "/" + capabilities.BrowserName + "_" +
                            DateTime.Now.ToString("yyyyMdd_HHmmss") + ".png";
 
             if (capabilities.BrowserName == "chrome")
@@ -128,15 +128,20 @@ namespace Testing.Resources
             return stitchedImage;
         }
 
-
         public static string GridPath()
         {
-            return "C:/Users/" + GetUsername() + "/Documents/Visual Studio 2015/Projects/MyPlay/Grid";
+            return TheFilePath().Replace("Testing", "Grid");
         }
 
-        public static string GetUsername()
+        public static string GetDirectoryName()
         {
-            return Environment.UserName;
+            return TheFilePath() + "Screenshots//";
+        }
+
+        public static string TheFilePath()
+        {
+            return Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..\\..\\"));
+
         }
     }
 }
