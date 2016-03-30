@@ -1,0 +1,16 @@
+C:\Users\amy.martin\Documents\Visual Studio 2015\Projects\MyPlay\MyPlay\bin\Debug\MyPlay.dll
+C:\Users\amy.martin\Documents\Visual Studio 2015\Projects\MyPlay\MyPlay\bin\Debug\MyPlay.pdb
+C:\Users\amy.martin\Documents\Visual Studio 2015\Projects\MyPlay\MyPlay\obj\Debug\MyPlay.csprojResolveAssemblyReference.cache
+C:\Users\amy.martin\Documents\Visual Studio 2015\Projects\MyPlay\MyPlay\obj\Debug\MyPlay.dll
+C:\Users\amy.martin\Documents\Visual Studio 2015\Projects\MyPlay\MyPlay\obj\Debug\MyPlay.pdb
+C:\Users\amy.martin\documents\visual studio 2015\Projects\MyPlay\MyPlay\bin\Debug\WebDriver.dll
+C:\Users\amy.martin\documents\visual studio 2015\Projects\MyPlay\MyPlay\bin\Debug\WebDriver.xml
+C:\Users\amy.martin\documents\visual studio 2015\Projects\MyPlay\MyPlay\bin\Debug\WebDriver.Support.dll
+C:\Users\amy.martin\documents\visual studio 2015\Projects\MyPlay\MyPlay\bin\Debug\WebDriver.Support.xml
+C:\Users\amy.martin\documents\visual studio 2015\Projects\MyPlay\MyPlay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amy.martin\documents\visual studio 2015\Projects\MyPlay\MyPlay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amy.martin\documents\visual studio 2015\Projects\MyPlay\MyPlay\bin\Debug\Castle.Core.dll
+C:\Users\amy.martin\documents\visual studio 2015\Projects\MyPlay\MyPlay\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\amy.martin\documents\visual studio 2015\Projects\MyPlay\MyPlay\bin\Debug\NuGet.Configuration.dll
+C:\Users\amy.martin\documents\visual studio 2015\Projects\MyPlay\MyPlay\bin\Debug\Castle.Core.xml
+C:\Users\amy.martin\documents\visual studio 2015\Projects\MyPlay\MyPlay\bin\Debug\NuGet.Configuration.xml
